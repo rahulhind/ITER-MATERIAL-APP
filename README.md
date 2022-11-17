@@ -3,7 +3,7 @@
 PS : Often Students Need severals Educational Stuffs During Exam, and they don't get at one place, Making them inadeqaute in Exams, We want to solve that Problem for both Student as well as for fest organizer in our college.
 <br />
 <div align="center">
-  <a href="https://github.com/pnkr01/ITER-MATERIAL-APP">
+  <a href="https://github.com/rahulhind/ITER-MATERIAL-APP">
     <img src="https://user-images.githubusercontent.com/83778936/178501427-802718a6-6ee6-4463-b07e-03f75f50d3c8.png" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center"><b>ITER-MATERIAL-APP</b></h1>
@@ -11,15 +11,15 @@ PS : Often Students Need severals Educational Stuffs During Exam, and they don't
   <p align="center">
     Your Solution to Assignment, Notes, Awarness, Internship Opportubities, Clubs and More.
   </p>
-<img src="https://img.shields.io/github/languages/code-size/pnkr01/ITER-MATERIAL-APP?style=flat-square" alt="Code size" />
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pnkr01/ITER-MATERIAL-APP?style=flat-square">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pnkr01/ITER-MATERIAL-APP?style=flat-square">
-<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/pnkr01/ITER-MATERIAL-APP?style=flat-square">
-<img alt="GitHub Repo issues" src="https://img.shields.io/github/issues/pnkr01/ITER-MATERIAL-APP?style=flat-square">
+<img src="https://img.shields.io/github/languages/code-size/rahulhind/ITER-MATERIAL-APP?style=flat-square" alt="Code size" />
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rahulhind/ITER-MATERIAL-APP?style=flat-square">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rahulhind/ITER-MATERIAL-APP?style=flat-square">
+<img alt="GitHub Repo forks" src="https://img.shields.io/github/forks/rahulhind/ITER-MATERIAL-APP?style=flat-square">
+<img alt="GitHub Repo issues" src="https://img.shields.io/github/issues/rahulhind/ITER-MATERIAL-APP?style=flat-square">
 <br>
-<a href="https://github.com/pnkr01/ITER-MATERIAL-APPissues">Report Bug</a>
+<a href="https://github.com/rahulhind/ITER-MATERIAL-APPissues">Report Bug</a>
 ·
-<a href="https://github.com/pnkr01/ITER-MATERIAL-APPissues">Request Feature</a>
+<a href="https://github.com/rahulhind/ITER-MATERIAL-APPissues">Request Feature</a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -104,7 +104,7 @@ If your version is not upto date, follow these steps to upgrade:
 
 ### _Development Environment: For setting up the development environment, follow the steps given below._
 
-- Clone this repository after forking using git clone <https://github.com/pnkr01/ITER-MATERIAL-APP.git>
+- Clone this repository after forking using git clone <https://github.com/rahulhind/ITER-MATERIAL-APP.git>
 - cd into `ITER-MATERIAL-APP`
 - Check for flutter setup and connected devices using `flutter doctor`
 - Get all the dependencies using `flutter pub get`
@@ -163,6 +163,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/pnkr01/ITER-MATERIAL-APP/](https://github.com/pnkr01/ITER-MATERIAL-APP/)
+Project Link: [https://github.com/rahulhind/ITER-MATERIAL-APP/](https://github.com/rahulhind/ITER-MATERIAL-APP/)
 
 Made with ♥ by Pawan Kumar
