@@ -165,4 +165,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/rahulhind/ITER-MATERIAL-APP/](https://github.com/rahulhind/ITER-MATERIAL-APP/)
 
-Made with ♥ by Pawan Kumar
+Made with ♥ by Rahul Kumar
